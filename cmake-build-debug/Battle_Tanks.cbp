@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Battle_Tanks"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\..\;CMake Files\..\..\;CMake Files\..\..\..\;CMake Files\..\..\..\..\;CMake Files\..\..\..\..\opt\;CMake Files\..\..\..\..\opt\homebrew\;CMake Files\..\..\..\..\opt\homebrew\lib\;CMake Files\..\..\..\..\opt\homebrew\lib\cmake\;CMake Files\..\..\..\..\opt\homebrew\lib\cmake\SFML\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/elinakarapetan/Desktop/Battle-Tanks-Elina/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/elinakarapetan/Desktop/Battle-Tanks-Elina/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/elinakarapetan/Desktop/Battle-Tanks-Elina/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/elinakarapetan/Desktop/Battle-Tanks-Elina/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/elinakarapetan/Desktop/Battle-Tanks-Elina/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/elinakarapetan/Desktop/Battle-Tanks-Elina/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/elinakarapetan/Desktop/Battle-Tanks-Elina/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/elinakarapetan/Desktop/Battle-Tanks-Elina/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/elinakarapetan/Desktop/Battle-Tanks-Elina/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/elinakarapetan/Desktop/Battle-Tanks-Elina/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/elinakarapetan/Desktop/Battle-Tanks-Elina/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/elinakarapetan/Desktop/Battle-Tanks-Elina/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/elinakarapetan/Desktop/Battle-Tanks-Elina/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/elinakarapetan/Desktop/Battle-Tanks-Elina/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/elinakarapetan/Desktop/Battle-Tanks-Elina/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Battle_Tanks">
+				<Option output="/Users/elinakarapetan/Desktop/Battle-Tanks-Elina/cmake-build-debug/Battle_Tanks" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/elinakarapetan/Desktop/Battle-Tanks-Elina/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/opt/homebrew/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/elinakarapetan/Desktop/Battle-Tanks-Elina/cmake-build-debug/Makefile&quot;  VERBOSE=1 Battle_Tanks"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/elinakarapetan/Desktop/Battle-Tanks-Elina/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/elinakarapetan/Desktop/Battle-Tanks-Elina/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/elinakarapetan/Desktop/Battle-Tanks-Elina/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Battle_Tanks/fast">
+				<Option output="/Users/elinakarapetan/Desktop/Battle-Tanks-Elina/cmake-build-debug/Battle_Tanks" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/elinakarapetan/Desktop/Battle-Tanks-Elina/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/opt/homebrew/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/elinakarapetan/Desktop/Battle-Tanks-Elina/cmake-build-debug/Makefile&quot;  VERBOSE=1 Battle_Tanks/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/elinakarapetan/Desktop/Battle-Tanks-Elina/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/elinakarapetan/Desktop/Battle-Tanks-Elina/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/elinakarapetan/Desktop/Battle-Tanks-Elina/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/elinakarapetan/Desktop/Battle-Tanks-Elina/Bullet.cpp">
+			<Option target="Battle_Tanks"/>
+		</Unit>
+		<Unit filename="/Users/elinakarapetan/Desktop/Battle-Tanks-Elina/Bullet.h">
+			<Option target="Battle_Tanks"/>
+		</Unit>
+		<Unit filename="/Users/elinakarapetan/Desktop/Battle-Tanks-Elina/Player.cpp">
+			<Option target="Battle_Tanks"/>
+		</Unit>
+		<Unit filename="/Users/elinakarapetan/Desktop/Battle-Tanks-Elina/Player.h">
+			<Option target="Battle_Tanks"/>
+		</Unit>
+		<Unit filename="/Users/elinakarapetan/Desktop/Battle-Tanks-Elina/game.cpp">
+			<Option target="Battle_Tanks"/>
+		</Unit>
+		<Unit filename="/Users/elinakarapetan/Desktop/Battle-Tanks-Elina/game.h">
+			<Option target="Battle_Tanks"/>
+		</Unit>
+		<Unit filename="/Users/elinakarapetan/Desktop/Battle-Tanks-Elina/main.cpp">
+			<Option target="Battle_Tanks"/>
+		</Unit>
+		<Unit filename="/Users/elinakarapetan/Desktop/Battle-Tanks-Elina/maze.cpp">
+			<Option target="Battle_Tanks"/>
+		</Unit>
+		<Unit filename="/Users/elinakarapetan/Desktop/Battle-Tanks-Elina/maze.h">
+			<Option target="Battle_Tanks"/>
+		</Unit>
+		<Unit filename="/Users/elinakarapetan/Desktop/Battle-Tanks-Elina/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/Users/elinakarapetan/Desktop/Battle-Tanks-Elina/../../../../opt/homebrew/lib/cmake/SFML/SFMLConfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\opt\homebrew\lib\cmake\SFML\"/>
+		</Unit>
+		<Unit filename="/Users/elinakarapetan/Desktop/Battle-Tanks-Elina/../../../../opt/homebrew/lib/cmake/SFML/SFMLConfigDependencies.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\opt\homebrew\lib\cmake\SFML\"/>
+		</Unit>
+		<Unit filename="/Users/elinakarapetan/Desktop/Battle-Tanks-Elina/../../../../opt/homebrew/lib/cmake/SFML/SFMLConfigVersion.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\opt\homebrew\lib\cmake\SFML\"/>
+		</Unit>
+		<Unit filename="/Users/elinakarapetan/Desktop/Battle-Tanks-Elina/../../../../opt/homebrew/lib/cmake/SFML/SFMLSharedTargets-release.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\opt\homebrew\lib\cmake\SFML\"/>
+		</Unit>
+		<Unit filename="/Users/elinakarapetan/Desktop/Battle-Tanks-Elina/../../../../opt/homebrew/lib/cmake/SFML/SFMLSharedTargets.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\opt\homebrew\lib\cmake\SFML\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
