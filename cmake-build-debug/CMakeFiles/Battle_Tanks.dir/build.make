@@ -53,10 +53,10 @@ RM = /Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /Users/elinakarapetan/Desktop/Battle-Tanks-Elina
+CMAKE_SOURCE_DIR = /Users/elinakarapetan/Desktop/Battle-Tanks
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /Users/elinakarapetan/Desktop/Battle-Tanks-Elina/cmake-build-debug
+CMAKE_BINARY_DIR = /Users/elinakarapetan/Desktop/Battle-Tanks/cmake-build-debug
 
 # Include any dependencies generated for this target.
 include CMakeFiles/Battle_Tanks.dir/depend.make
@@ -68,68 +68,68 @@ include CMakeFiles/Battle_Tanks.dir/flags.make
 
 CMakeFiles/Battle_Tanks.dir/main.cpp.o: CMakeFiles/Battle_Tanks.dir/flags.make
 CMakeFiles/Battle_Tanks.dir/main.cpp.o: ../main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/elinakarapetan/Desktop/Battle-Tanks-Elina/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Battle_Tanks.dir/main.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Battle_Tanks.dir/main.cpp.o -c /Users/elinakarapetan/Desktop/Battle-Tanks-Elina/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/elinakarapetan/Desktop/Battle-Tanks/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Battle_Tanks.dir/main.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Battle_Tanks.dir/main.cpp.o -c /Users/elinakarapetan/Desktop/Battle-Tanks/main.cpp
 
 CMakeFiles/Battle_Tanks.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Battle_Tanks.dir/main.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/elinakarapetan/Desktop/Battle-Tanks-Elina/main.cpp > CMakeFiles/Battle_Tanks.dir/main.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/elinakarapetan/Desktop/Battle-Tanks/main.cpp > CMakeFiles/Battle_Tanks.dir/main.cpp.i
 
 CMakeFiles/Battle_Tanks.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Battle_Tanks.dir/main.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/elinakarapetan/Desktop/Battle-Tanks-Elina/main.cpp -o CMakeFiles/Battle_Tanks.dir/main.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/elinakarapetan/Desktop/Battle-Tanks/main.cpp -o CMakeFiles/Battle_Tanks.dir/main.cpp.s
 
 CMakeFiles/Battle_Tanks.dir/maze.cpp.o: CMakeFiles/Battle_Tanks.dir/flags.make
 CMakeFiles/Battle_Tanks.dir/maze.cpp.o: ../maze.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/elinakarapetan/Desktop/Battle-Tanks-Elina/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/Battle_Tanks.dir/maze.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Battle_Tanks.dir/maze.cpp.o -c /Users/elinakarapetan/Desktop/Battle-Tanks-Elina/maze.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/elinakarapetan/Desktop/Battle-Tanks/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/Battle_Tanks.dir/maze.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Battle_Tanks.dir/maze.cpp.o -c /Users/elinakarapetan/Desktop/Battle-Tanks/maze.cpp
 
 CMakeFiles/Battle_Tanks.dir/maze.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Battle_Tanks.dir/maze.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/elinakarapetan/Desktop/Battle-Tanks-Elina/maze.cpp > CMakeFiles/Battle_Tanks.dir/maze.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/elinakarapetan/Desktop/Battle-Tanks/maze.cpp > CMakeFiles/Battle_Tanks.dir/maze.cpp.i
 
 CMakeFiles/Battle_Tanks.dir/maze.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Battle_Tanks.dir/maze.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/elinakarapetan/Desktop/Battle-Tanks-Elina/maze.cpp -o CMakeFiles/Battle_Tanks.dir/maze.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/elinakarapetan/Desktop/Battle-Tanks/maze.cpp -o CMakeFiles/Battle_Tanks.dir/maze.cpp.s
 
 CMakeFiles/Battle_Tanks.dir/game.cpp.o: CMakeFiles/Battle_Tanks.dir/flags.make
 CMakeFiles/Battle_Tanks.dir/game.cpp.o: ../game.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/elinakarapetan/Desktop/Battle-Tanks-Elina/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/Battle_Tanks.dir/game.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Battle_Tanks.dir/game.cpp.o -c /Users/elinakarapetan/Desktop/Battle-Tanks-Elina/game.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/elinakarapetan/Desktop/Battle-Tanks/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/Battle_Tanks.dir/game.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Battle_Tanks.dir/game.cpp.o -c /Users/elinakarapetan/Desktop/Battle-Tanks/game.cpp
 
 CMakeFiles/Battle_Tanks.dir/game.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Battle_Tanks.dir/game.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/elinakarapetan/Desktop/Battle-Tanks-Elina/game.cpp > CMakeFiles/Battle_Tanks.dir/game.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/elinakarapetan/Desktop/Battle-Tanks/game.cpp > CMakeFiles/Battle_Tanks.dir/game.cpp.i
 
 CMakeFiles/Battle_Tanks.dir/game.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Battle_Tanks.dir/game.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/elinakarapetan/Desktop/Battle-Tanks-Elina/game.cpp -o CMakeFiles/Battle_Tanks.dir/game.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/elinakarapetan/Desktop/Battle-Tanks/game.cpp -o CMakeFiles/Battle_Tanks.dir/game.cpp.s
 
 CMakeFiles/Battle_Tanks.dir/Player.cpp.o: CMakeFiles/Battle_Tanks.dir/flags.make
 CMakeFiles/Battle_Tanks.dir/Player.cpp.o: ../Player.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/elinakarapetan/Desktop/Battle-Tanks-Elina/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/Battle_Tanks.dir/Player.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Battle_Tanks.dir/Player.cpp.o -c /Users/elinakarapetan/Desktop/Battle-Tanks-Elina/Player.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/elinakarapetan/Desktop/Battle-Tanks/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/Battle_Tanks.dir/Player.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Battle_Tanks.dir/Player.cpp.o -c /Users/elinakarapetan/Desktop/Battle-Tanks/Player.cpp
 
 CMakeFiles/Battle_Tanks.dir/Player.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Battle_Tanks.dir/Player.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/elinakarapetan/Desktop/Battle-Tanks-Elina/Player.cpp > CMakeFiles/Battle_Tanks.dir/Player.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/elinakarapetan/Desktop/Battle-Tanks/Player.cpp > CMakeFiles/Battle_Tanks.dir/Player.cpp.i
 
 CMakeFiles/Battle_Tanks.dir/Player.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Battle_Tanks.dir/Player.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/elinakarapetan/Desktop/Battle-Tanks-Elina/Player.cpp -o CMakeFiles/Battle_Tanks.dir/Player.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/elinakarapetan/Desktop/Battle-Tanks/Player.cpp -o CMakeFiles/Battle_Tanks.dir/Player.cpp.s
 
 CMakeFiles/Battle_Tanks.dir/Bullet.cpp.o: CMakeFiles/Battle_Tanks.dir/flags.make
 CMakeFiles/Battle_Tanks.dir/Bullet.cpp.o: ../Bullet.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/elinakarapetan/Desktop/Battle-Tanks-Elina/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/Battle_Tanks.dir/Bullet.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Battle_Tanks.dir/Bullet.cpp.o -c /Users/elinakarapetan/Desktop/Battle-Tanks-Elina/Bullet.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/elinakarapetan/Desktop/Battle-Tanks/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/Battle_Tanks.dir/Bullet.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Battle_Tanks.dir/Bullet.cpp.o -c /Users/elinakarapetan/Desktop/Battle-Tanks/Bullet.cpp
 
 CMakeFiles/Battle_Tanks.dir/Bullet.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Battle_Tanks.dir/Bullet.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/elinakarapetan/Desktop/Battle-Tanks-Elina/Bullet.cpp > CMakeFiles/Battle_Tanks.dir/Bullet.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/elinakarapetan/Desktop/Battle-Tanks/Bullet.cpp > CMakeFiles/Battle_Tanks.dir/Bullet.cpp.i
 
 CMakeFiles/Battle_Tanks.dir/Bullet.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Battle_Tanks.dir/Bullet.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/elinakarapetan/Desktop/Battle-Tanks-Elina/Bullet.cpp -o CMakeFiles/Battle_Tanks.dir/Bullet.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/elinakarapetan/Desktop/Battle-Tanks/Bullet.cpp -o CMakeFiles/Battle_Tanks.dir/Bullet.cpp.s
 
 # Object files for target Battle_Tanks
 Battle_Tanks_OBJECTS = \
@@ -154,7 +154,7 @@ Battle_Tanks: /opt/homebrew/lib/libsfml-network.2.5.1.dylib
 Battle_Tanks: /opt/homebrew/lib/libsfml-window.2.5.1.dylib
 Battle_Tanks: /opt/homebrew/lib/libsfml-system.2.5.1.dylib
 Battle_Tanks: CMakeFiles/Battle_Tanks.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/elinakarapetan/Desktop/Battle-Tanks-Elina/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Linking CXX executable Battle_Tanks"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/elinakarapetan/Desktop/Battle-Tanks/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Linking CXX executable Battle_Tanks"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/Battle_Tanks.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -166,6 +166,6 @@ CMakeFiles/Battle_Tanks.dir/clean:
 .PHONY : CMakeFiles/Battle_Tanks.dir/clean
 
 CMakeFiles/Battle_Tanks.dir/depend:
-	cd /Users/elinakarapetan/Desktop/Battle-Tanks-Elina/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/elinakarapetan/Desktop/Battle-Tanks-Elina /Users/elinakarapetan/Desktop/Battle-Tanks-Elina /Users/elinakarapetan/Desktop/Battle-Tanks-Elina/cmake-build-debug /Users/elinakarapetan/Desktop/Battle-Tanks-Elina/cmake-build-debug /Users/elinakarapetan/Desktop/Battle-Tanks-Elina/cmake-build-debug/CMakeFiles/Battle_Tanks.dir/DependInfo.cmake --color=$(COLOR)
+	cd /Users/elinakarapetan/Desktop/Battle-Tanks/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/elinakarapetan/Desktop/Battle-Tanks /Users/elinakarapetan/Desktop/Battle-Tanks /Users/elinakarapetan/Desktop/Battle-Tanks/cmake-build-debug /Users/elinakarapetan/Desktop/Battle-Tanks/cmake-build-debug /Users/elinakarapetan/Desktop/Battle-Tanks/cmake-build-debug/CMakeFiles/Battle_Tanks.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/Battle_Tanks.dir/depend
 

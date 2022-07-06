@@ -1,4 +1,4 @@
-/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G "CodeBlocks - Unix Makefiles" /Users/elinakarapetan/Desktop/Battle-Tanks-Elina
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G "CodeBlocks - Unix Makefiles" /Users/elinakarapetan/Desktop/Battle-Tanks
 -- The C compiler identification is AppleClang 13.0.0.13000029
 -- The CXX compiler identification is AppleClang 13.0.0.13000029
 -- Detecting C compiler ABI info
@@ -14,4 +14,4 @@
 -- Found SFML 2.5.1 in /opt/homebrew/lib/cmake/SFML
 -- Configuring done
 -- Generating done
--- Build files have been written to: /Users/elinakarapetan/Desktop/Battle-Tanks-Elina/cmake-build-debug
+-- Build files have been written to: /Users/elinakarapetan/Desktop/Battle-Tanks/cmake-build-debug

@@ -8,11 +8,11 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/Users/elinakarapetan/Desktop/Battle-Tanks-Elina/Bullet.cpp" "/Users/elinakarapetan/Desktop/Battle-Tanks-Elina/cmake-build-debug/CMakeFiles/Battle_Tanks.dir/Bullet.cpp.o"
-  "/Users/elinakarapetan/Desktop/Battle-Tanks-Elina/Player.cpp" "/Users/elinakarapetan/Desktop/Battle-Tanks-Elina/cmake-build-debug/CMakeFiles/Battle_Tanks.dir/Player.cpp.o"
-  "/Users/elinakarapetan/Desktop/Battle-Tanks-Elina/game.cpp" "/Users/elinakarapetan/Desktop/Battle-Tanks-Elina/cmake-build-debug/CMakeFiles/Battle_Tanks.dir/game.cpp.o"
-  "/Users/elinakarapetan/Desktop/Battle-Tanks-Elina/main.cpp" "/Users/elinakarapetan/Desktop/Battle-Tanks-Elina/cmake-build-debug/CMakeFiles/Battle_Tanks.dir/main.cpp.o"
-  "/Users/elinakarapetan/Desktop/Battle-Tanks-Elina/maze.cpp" "/Users/elinakarapetan/Desktop/Battle-Tanks-Elina/cmake-build-debug/CMakeFiles/Battle_Tanks.dir/maze.cpp.o"
+  "/Users/elinakarapetan/Desktop/Battle-Tanks/Bullet.cpp" "/Users/elinakarapetan/Desktop/Battle-Tanks/cmake-build-debug/CMakeFiles/Battle_Tanks.dir/Bullet.cpp.o"
+  "/Users/elinakarapetan/Desktop/Battle-Tanks/Player.cpp" "/Users/elinakarapetan/Desktop/Battle-Tanks/cmake-build-debug/CMakeFiles/Battle_Tanks.dir/Player.cpp.o"
+  "/Users/elinakarapetan/Desktop/Battle-Tanks/game.cpp" "/Users/elinakarapetan/Desktop/Battle-Tanks/cmake-build-debug/CMakeFiles/Battle_Tanks.dir/game.cpp.o"
+  "/Users/elinakarapetan/Desktop/Battle-Tanks/main.cpp" "/Users/elinakarapetan/Desktop/Battle-Tanks/cmake-build-debug/CMakeFiles/Battle_Tanks.dir/main.cpp.o"
+  "/Users/elinakarapetan/Desktop/Battle-Tanks/maze.cpp" "/Users/elinakarapetan/Desktop/Battle-Tanks/cmake-build-debug/CMakeFiles/Battle_Tanks.dir/maze.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "AppleClang")
 

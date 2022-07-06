@@ -6,13 +6,25 @@
 
 #IncludeRegexTransform: 
 
-/Users/elinakarapetan/Desktop/Battle-Tanks-Elina/Bullet.h
+/Users/elinakarapetan/Desktop/Battle-Tanks/Bullet.cpp
+Bullet.h
+/Users/elinakarapetan/Desktop/Battle-Tanks/Bullet.h
+
+/Users/elinakarapetan/Desktop/Battle-Tanks/Bullet.h
 SFML/Graphics.hpp
 -
 iostream
 -
 
-/Users/elinakarapetan/Desktop/Battle-Tanks-Elina/Player.h
+/Users/elinakarapetan/Desktop/Battle-Tanks/Player.cpp
+Player.h
+/Users/elinakarapetan/Desktop/Battle-Tanks/Player.h
+iostream
+-
+sstream
+-
+
+/Users/elinakarapetan/Desktop/Battle-Tanks/Player.h
 SFML/Graphics.hpp
 -
 SFML/System.hpp
@@ -24,17 +36,17 @@ SFML/Audio.hpp
 SFML/Network.hpp
 -
 Bullet.h
-/Users/elinakarapetan/Desktop/Battle-Tanks-Elina/Bullet.h
+/Users/elinakarapetan/Desktop/Battle-Tanks/Bullet.h
 
-/Users/elinakarapetan/Desktop/Battle-Tanks-Elina/game.cpp
+/Users/elinakarapetan/Desktop/Battle-Tanks/game.cpp
 game.h
-/Users/elinakarapetan/Desktop/Battle-Tanks-Elina/game.h
+/Users/elinakarapetan/Desktop/Battle-Tanks/game.h
 math.h
 -
 vector
-/Users/elinakarapetan/Desktop/Battle-Tanks-Elina/vector
+/Users/elinakarapetan/Desktop/Battle-Tanks/vector
 
-/Users/elinakarapetan/Desktop/Battle-Tanks-Elina/game.h
+/Users/elinakarapetan/Desktop/Battle-Tanks/game.h
 iostream
 -
 vector
@@ -44,9 +56,9 @@ ctime
 string
 -
 maze.h
-/Users/elinakarapetan/Desktop/Battle-Tanks-Elina/maze.h
+/Users/elinakarapetan/Desktop/Battle-Tanks/maze.h
 Player.h
-/Users/elinakarapetan/Desktop/Battle-Tanks-Elina/Player.h
+/Users/elinakarapetan/Desktop/Battle-Tanks/Player.h
 SFML/Graphics.hpp
 -
 SFML/System.hpp
@@ -60,7 +72,21 @@ SFML/Network.hpp
 map
 -
 
-/Users/elinakarapetan/Desktop/Battle-Tanks-Elina/maze.h
+/Users/elinakarapetan/Desktop/Battle-Tanks/main.cpp
+maze.h
+/Users/elinakarapetan/Desktop/Battle-Tanks/maze.h
+game.h
+/Users/elinakarapetan/Desktop/Battle-Tanks/game.h
+string.h
+-
+map
+-
+
+/Users/elinakarapetan/Desktop/Battle-Tanks/maze.cpp
+maze.h
+/Users/elinakarapetan/Desktop/Battle-Tanks/maze.h
+
+/Users/elinakarapetan/Desktop/Battle-Tanks/maze.h
 iostream
 -
 vector
