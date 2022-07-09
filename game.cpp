@@ -49,6 +49,7 @@ void Game::initWindow(){
     window = new sf::RenderWindow(videoMode, "Battle-Tanks", sf::Style::Titlebar | sf::Style::Close);
     window->setFramerateLimit(120);
     window->setVerticalSyncEnabled(false);
+    gameIsOver = false;
 }
 
 //Accessors
